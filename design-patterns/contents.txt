@@ -1,0 +1,17 @@
+Design Patterns:
+(from Head First Design Patterns)
+    - Observer Pattern
+    - Decorator Pattern
+    - Factory Pattern
+    - Singleton Pattern
+    - Command Pattern
+    - Adapter & Facade Patterns
+    - Template Method Pattern
+    - Iterator & Composite Patterns
+    - State Pattern
+    - Proxy Pattern
+    - Compound Patterns
+
+
+TODO:
+    * Turn this into a markdown file or reorganize to make more sense? (someday)
